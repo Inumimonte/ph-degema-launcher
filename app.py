@@ -4,7 +4,8 @@ import importlib.util
 
 # CONFIG
 GITHUB_USER = "Inumimonte"
-GITHUB_REPO = "ph-degema-dashboard"
+GITHUB_REPO = "ph-degema-launcher"
+
 BRANCH = "main"
 
 ZIP_URL = f"https://github.com/{GITHUB_USER}/{GITHUB_REPO}/archive/refs/heads/{BRANCH}.zip"
