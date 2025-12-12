@@ -1,8 +1,13 @@
 streamlit
-requests
 pandas
 openpyxl
 numpy
 matplotlib
-plotly
-scikit-learn
+.gitignore
+__pycache__/
+.env
+.vscode/
+*.pyc
+.DS_Store
+data/*.xlsx
+*.xlsx
